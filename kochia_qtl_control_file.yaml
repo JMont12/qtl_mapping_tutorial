@@ -1,0 +1,29 @@
+crosstype: f2
+geno: kochia_alleles.csv
+geno_transposed: true
+pheno: kochia_pheno.csv
+na.strings:
+- '-'
+- NA
+gmap: kochia_gmap.csv
+alleles:
+- S
+- R
+#S is the sensitive allele and R is resistant
+genotypes:
+  SS: 1
+  SR: 2
+  RS: 2
+  RR: 3
+#phenocovar: phenocovar.csv
+#covar: covar.csv
+#sex:
+#  covar: sex
+#  f: female
+#  m: male
+#cross_info:
+#  covar: cross_direction
+#  (SxR)x(SxR): 0
+#  (RxS)x(RxS): 1
+
+

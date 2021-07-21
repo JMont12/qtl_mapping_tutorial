@@ -1,0 +1,292 @@
+1,4-alpha-glucan-branching enzyme 1, chloroplastic/amyloplastic (EC 2.4.1.18) (Starch branching enzyme I)
+1,4-alpha-glucan-branching enzyme 2, chloroplastic/amyloplastic (EC 2.4.1.18) (Q-enzyme) (Starch-branching enzyme IIB)
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase (3-beta-HSD) [Includes: 3-beta-hydroxy-Delta(5)-steroid dehydrogenase (EC 1.1.1.145) (3-beta-hydroxy-5-ene steroid dehydrogenase) (Progesterone reductase); Steroid Delta-isomerase (EC 5.3.3.1) (Delta-5-3-ketosteroid isomerase)]
+3-hydroxy-3-methylglutaryl coenzyme A reductase 2-B (HMG-CoA reductase 2) (Hydroxymethylglutaryl-CoA reductase) (PgHMGR2) (EC 1.1.1.34)
+40S ribosomal protein S12
+5'-3' exoribonuclease 4 (EC 3.1.13.-) (Protein ACC INSENSITIVE 1) (Protein ETHYLENE INSENSITIVE 5) (Protein EXORIBONUCLEASE 4)
+50S ribosomal protein 6, chloroplastic (CL25) (Plastid-specific 50S ribosomal protein 6) (PSRP-6)
+50S ribosomal protein L10e
+65-kDa microtubule-associated protein 3 (AtMAP65-3) (Protein PLEIADE)
+65-kDa microtubule-associated protein 6 (AtMAP65-6)
+A-kinase anchor protein 17A (AKAP-17A) (721P) (B-lymphocyte antigen) (Protein XE7) (Protein kinase A-anchoring protein 17A) (PRKA17A) (Splicing factor, arginine/serine-rich 17A)
+AP2-like ethylene-responsive transcription factor SNZ (Protein SCHNARCHZAPFEN)
+AT-hook motif nuclear-localized protein 18
+AT-hook motif nuclear-localized protein 28
+AT-hook motif nuclear-localized protein 6
+ATP-dependent DNA helicase CHL1 (EC 3.6.4.12) (Chromosome loss protein 1)
+ATP-dependent DNA/RNA helicase DHX36 (EC 3.6.4.12) (EC 3.6.4.13) (DEAD/H box polypeptide 36) (DEAH-box protein 36) (G4-resolvase-1) (G4R1) (MLE-like protein 1) (RNA helicase associated with AU-rich element protein)
+ATP-dependent zinc metalloprotease FtsH 3 (EC 3.4.24.-)
+Acetyl-coenzyme A synthetase (AcCoA synthetase) (Acs) (EC 6.2.1.1) (Acetate--CoA ligase) (Acyl-activating enzyme)
+Acetylpolyamine amidohydrolase (APAH) (EC 3.5.1.-) (Acetylcadaverine deacetylase) (Acetylpolyamine deacetylase) (Acetylputrescine deacetylase) (EC 3.5.1.62)
+Acyl-CoA-binding domain-containing protein 2 (Acyl-CoA binding protein 2)
+Adenine phosphoribosyltransferase 1, chloroplastic (APRT 1) (AtAPT1) (EC 2.4.2.7)
+Adenosine deaminase-like protein (EC 3.5.4.-) (Adenosine deaminase-like protein isoform 1) (N6-mAMP deaminase) (HsMAPDA) (N6-methyl-AMP aminohydrolase)
+Albumin-2 (24 kDa albumin) (LS-24) (PA2)
+Alkaline phosphatase D (APaseD) (EC 3.1.3.1)
+Ankyrin repeat and SAM domain-containing protein 1A (Odin)
+Auxin response factor 5 (Auxin-responsive protein IAA24) (Transcription factor MONOPTEROS)
+Auxin-induced protein 15A
+Auxin-induced protein 6B
+Basic leucine zipper 4 (AtbZIP4)
+Beta-glucosidase 10 (Os4bglu10) (EC 3.2.1.21)
+Bifunctional protein FolD 4, chloroplastic (Protein EMBRYO DEFECTIVE 3127) (Tetrahydrofolate dehydrogenase/cyclohydrolase 4) [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]
+Bromodomain-containing protein 1 (Bromodomain and PHD finger-containing protein 2)
+COP9 signalosome complex subunit 7 (CSN complex subunit 7) (Protein FUSCA 5)
+Calcineurin B-like protein 1
+Calcium-dependent protein kinase 21 (EC 2.7.11.1)
+Calcium-transporting ATPase sarcoplasmic/endoplasmic reticulum type (EC 7.2.2.10) (Calcium pump)
+Catalase isozyme 1 (EC 1.11.1.6)
+Catalase-2 (EC 1.11.1.6)
+Cell division control protein 2 homolog D (EC 2.7.11.22) (EC 2.7.11.23)
+Cellulose synthase-like protein G3 (AtCslG3) (EC 2.4.1.-)
+Chaperone protein DnaJ
+Chaperone protein dnaJ 72 (AtDjC72) (AtJ72)
+Chlorophyll a-b binding protein 8, chloroplastic (LHCI type III CAB-8)
+Chlorophyll a-b binding protein CP24 10A, chloroplastic (CAB-10A) (LHCP)
+Citrate synthase, mitochondrial (EC 2.3.3.16)
+Coiled-coil domain-containing protein 115
+Copia protein (Gag-int-pol protein) [Cleaved into: Copia VLP protein; Copia protease (EC 3.4.23.-)]
+Cyclin-D3-2 (G1/S-specific cyclin-D3-2) (CycD3;2)
+Cyclin-dependent kinase 1 (CDK1) (EC 2.7.11.22) (EC 2.7.11.23) (Cell division control protein 2 homolog) (Cell division protein kinase 1) (p34 protein kinase)
+Cysteine-rich protein 2 (CRP-2)
+Cysteine-rich receptor-like protein kinase 25 (Cysteine-rich RLK25) (EC 2.7.11.-)
+Cytochrome P450 704B1 (Long-chain fatty acid omega-hydroxylase) (EC 1.14.14.80)
+Cytochrome P450 714A1 (EC 1.14.-.-) (EUI-like P450 A1)
+Cytochrome P450 81Q32 (CrCYP81Q32) (EC 1.14.-.-)
+Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1) (Protein LONELY GUY homolog) (LOG homolog)
+DNA repair protein XRCC3 (X-ray repair cross-complementing protein 3)
+DNA repair protein XRCC3 homolog (X-ray repair cross-complementing protein 3 homolog) (AtXRCC3)
+DNA-directed RNA polymerase I subunit RPA2 (EC 2.7.7.6) (DNA-directed RNA polymerase I polypeptide 2) (RNA polymerase I subunit 2)
+DNA-directed RNA polymerase III subunit 2 (DNA-directed RNA polymerase III subunit RPC2) (DNA polymerase I subunit C2) (EC 2.7.7.6) (Nuclear RNA polymerase C2)
+Dipeptidyl peptidase family member 6 (EC 3.4.14.-)
+Disease resistance protein RGA2 (Blight resistance protein RPI) (RGA2-blb)
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1A (Ribophorin IA) (RPN-IA) (Ribophorin-1A)
+Dynamin-1 (EC 3.6.5.5) (B-dynamin) (D100) (Dynamin, brain)
+Dynamin-like 120 kDa protein, mitochondrial (EC 3.6.5.5) (Optic atrophy protein 1 homolog) [Cleaved into: Dynamin-like 120 kDa protein, form S1]
+Dynamin-related protein 1E (Dynamin-like protein 4) (Dynamin-like protein DLP2) (Dynamin-like protein E)
+E3 ubiquitin-protein ligase RDUF1 (EC 2.3.2.27) (RING and DUF1117 domain-containing protein 1) (AtRDUF1) (RING-type E3 ubiquitin transferase RDUF1)
+E3 ubiquitin-protein ligase SDIR1 (EC 2.3.2.27) (Protein SALT- AND DROUGHT-INDUCED RING FINGER 1) (RING-type E3 ubiquitin transferase SDIR1)
+E3 ubiquitin-protein ligase UPL3 (Ubiquitin-protein ligase 3) (EC 2.3.2.26) (HECT ubiquitin-protein ligase 3) (HECT-type E3 ubiquitin transferase UPL3) (Protein KAKTUS)
+EPIDERMAL PATTERNING FACTOR-like protein 2 (EPF-like protein 2) [Cleaved into: MEPFL2]
+ETO1-like protein 1 (Ethylene overproducer 1-like protein 1)
+Endo-1,4-beta-xylanase 1 (Xylanase 1) (EC 3.2.1.8) (1,4-beta-D-xylan xylanohydrolase 1)
+Endo-1,4-beta-xylanase 2 (Xylanase 2) (EC 3.2.1.8) (1,4-beta-D-xylan xylanohydrolase 2)
+Endoglucanase 24 (EC 3.2.1.4) (Endo-1,4-beta glucanase 24)
+Ent-kaurene oxidase 2 (OsKO2) (EC 1.14.14.86) (Cytochrome P450 701A6) (Ent-kaurene oxidase-like 2) (OsKOL2) (OsKOS3) (Protein DWARF 35)
+Equilibrative nucleotide transporter 1 (AtENT1) (Nucleoside transporter ENT1)
+Ergosterol biosynthetic protein 28 homolog
+Ethylene receptor (EC 2.7.13.3)
+F-box/kelch-repeat protein At5g42350
+Filament-like plant protein 4 (AtFPP4)
+Flavonoid 3',5'-hydroxylase 1 (F3'5'H) (EC 1.14.14.81) (CYPLXXVA1) (Cytochrome P450 75A1)
+Flavonol synthase/flavanone 3-hydroxylase (FLS) (EC 1.14.11.9) (EC 1.14.20.6) (Fragment)
+G1/S-specific cyclin-D2
+G1/S-specific cyclin-E
+GTP-binding protein Rit2 (EC 3.6.5.2) (Ras-like protein expressed in neurons) (Ras-like without CAAX protein 2)
+Gamete and mating-type specific protein A (EC 3.4.22.-)
+Geraniol 8-hydroxylase (EC 1.14.14.83) (Cytochrome P450 76B10) (Geraniol 10-hydroxylase) (SmG10H)
+Germin-like protein 3-1
+Germin-like protein 9-1
+Germin-like protein 9-3
+Gibberellin 2-beta-dioxygenase 7 (EC 1.14.11.13) (GA 2-oxidase 7) (Gibberellin 2-beta-hydroxylase 7) (Gibberellin 2-oxidase 7)
+Gibberellin 20-oxidase-like protein (EC 1.14.11.-)
+Gibberellin-regulated protein 11 (GAST1 protein homolog 11)
+Gibberellin-regulated protein 7 (GAST1 protein homolog 7)
+Glutamate receptor ionotropic, NMDA 3B (GluN3B) (N-methyl-D-aspartate receptor subunit NR3B) (NMDAR3B) (NR3B) (NMDA receptor 4) (Nr4)
+Glutathione S-transferase-like protein FUS3 (EC 2.5.1.-) (Fusarin biosynthesis protein 3)
+Glyceraldehyde-3-phosphate dehydrogenase B, chloroplastic (EC 1.2.1.13) (NADP-dependent glyceraldehydephosphate dehydrogenase subunit B)
+Glycerol-3-phosphate acyltransferase, chloroplastic (GPAT) (EC 2.3.1.15)
+Growth-regulating factor 9 (AtGRF9) (Transcription activator GRF9)
+Guanidinoacetate N-methyltransferase (EC 2.1.1.2)
+HMG1/2-like protein
+HMG1/2-like protein (Protein SB11)
+HORMA domain-containing protein 1
+Heptahelical transmembrane protein 1 (PAQR family protein HHP1)
+Heterogeneous nuclear ribonucleoprotein A0 (hnRNP A0)
+High mobility group B protein 14 (Nucleosome/chromatin assembly factor group D 14)
+High mobility group B protein 3 (High mobility group protein B 2) (AtHMGbeta2) (HMG beta 2) (Nucleosome/chromatin assembly factor group D 03) (Nucleosome/chromatin assembly factor group D 3)
+Homeobox protein knotted-1-like 2 (Fragment)
+IQ domain-containing protein IQM3 (IQ motif-containing protein 3)
+Inositol-tetrakisphosphate 1-kinase 6 (EC 2.7.1.134) (Inositol 1,3,4-trisphosphate 5/6-kinase 6) (Inositol-triphosphate 5/6-kinase 6) (Ins(1,3,4)P(3) 5/6-kinase 6) (OsITP5/6K-6) (OsITPK6) (EC 2.7.1.159)
+Interferon-related developmental regulator 2 (Protein SKMC15)
+Kelch-like protein 3
+Kinesin-like protein KIN-10A (Phragmoplast-associated kinesin-related protein 2) (AtPAKRP2)
+Kinesin-like protein NACK1 (NPK1-activating kinesin-1)
+Kunitz trypsin inhibitor 5 (AtKTI5) (Kunitz trypsin inhibitor 2) (AtKTI2)
+Lariat debranching enzyme (EC 3.1.-.-)
+Lecithin-cholesterol acyltransferase-like 4 (EC 2.3.1.-)
+Leucine-rich repeat receptor-like protein kinase PEPR2 (EC 2.7.11.1) (Elicitor peptide 1 receptor 2) (PEP1 receptor 2)
+Lissencephaly-1 homolog (Pronuclear migration abnormal protein 1)
+MLO-like protein 5 (AtMlo5)
+MTOR-associated protein MEAK7 (MEAK7) (TBC/LysM-associated domain-containing protein 1) (TLD domain-containing protein 1)
+Manganese transporter pdt1
+Mannose/glucose-specific lectin (Fragment)
+Maturase K (Intron maturase)
+Midasin (AtMDN1) (Dynein-related AAA-ATPase MDN1) (MIDAS-containing protein 1) (Protein DWARF AND SHORT ROOT 1)
+Mitogen-activated protein kinase kinase kinase ANP1 (EC 2.7.11.25) (Arabidopsis NPK1-related kinase 1)
+Mitotic checkpoint serine/threonine-protein kinase BUB1 (hBUB1) (EC 2.7.11.1) (BUB1A)
+Multiple C2 and transmembrane domain-containing protein
+N-acetylglucosamine kinase 1 (GlcNAc kinase 1) (EC 2.7.1.59) (Hexokinase 1) (EC 2.7.1.1)
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 1, mitochondrial (EC 7.1.1.2) (Protein EMBRYO DEFECTIVE 1467)
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial (Complex I-18 kDa) (CI-18 kDa) (Complex I-AQDQ) (CI-AQDQ) (NADH-ubiquinone oxidoreductase 18 kDa subunit)
+NADH-dependent flavin oxidoreductase iccE (EC 1.-.-.-) (Ilicicolin H biosynthesis cluster protein E)
+NADH-dependent flavin oxidoreductase nadA (EC 1.-.-.-) (Aflatoxin biosynthesis protein nadA)
+NADPH dehydrogenase (EC 1.6.99.1)
+NADPH dehydrogenase 3 (EC 1.6.99.1) (Old yellow enzyme 3)
+NADPH-dependent aldehyde reductase ARI1 (EC 1.1.1.-)
+NPC intracellular cholesterol transporter 1 (Niemann-Pick C1 protein)
+Nuclear/nucleolar GTPase 2
+Nucleotide-sugar uncharacterized transporter 2
+Oxalate oxidase GF-2.8 (EC 1.2.3.4) (Germin GF-2.8)
+Pantothenate kinase 2 (AtPANK2) (Pantothenic acid kinase 2) [Includes: Pantothenate kinase (EC 2.7.1.33); 4'-phosphopantetheine phosphatase (EC 3.1.3.-)]
+Pentatricopeptide repeat-containing protein At1g63080, mitochondrial
+Pentatricopeptide repeat-containing protein At2g39230, mitochondrial (Protein LATERAL ORGAN JUNCTION)
+Pentatricopeptide repeat-containing protein At4g14850 (Protein LOVASTATIN INSENSITIVE 1)
+Pentatricopeptide repeat-containing protein At4g20770
+Pentatricopeptide repeat-containing protein At5g11310, mitochondrial
+Pentatricopeptide repeat-containing protein At5g16640, mitochondrial
+Pentatricopeptide repeat-containing protein At5g57250, mitochondrial
+Peptidyl-prolyl cis-trans isomerase FKBP10 (PPIase FKBP10) (EC 5.2.1.8) (FK506-binding protein 10) (FKBP-10) (Rotamase)
+Peptidyl-prolyl cis-trans isomerase FKBP16-4, chloroplastic (PPIase FKBP16-4) (EC 5.2.1.8) (FK506-binding protein 16-4) (AtFKBP16-4) (Immunophilin FKBP16-4) (Rotamase)
+Peptidyl-prolyl cis-trans isomerase FKBP17-2, chloroplastic (PPIase FKBP17-2) (EC 5.2.1.8) (FK506-binding protein 17-2) (AtFKBP17-2) (Immunophilin FKBP17-2) (Rotamase)
+Peroxisome biogenesis protein 7 (Peroxin-7) (AtPEX7) (Peroxisomal targeting signal type 2 receptor) (Pex7p)
+Phenylalanine--tRNA ligase beta subunit, cytoplasmic (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS)
+Phospholipase D delta (AtPLDdelta) (PLD delta) (EC 3.1.4.4)
+Phytosulfokines 3 (AtPSK3) [Cleaved into: Phytosulfokine-alpha (PSK-alpha) (Phytosulfokine-a); Phytosulfokine-beta (PSK-beta) (Phytosulfokine-b)]
+Poly(rC)-binding protein 1 (Alpha-CP1) (Heterogeneous nuclear ribonucleoprotein E1) (hnRNP E1)
+Potassium-transporting ATPase ATP-binding subunit (EC 7.2.2.6) (ATP phosphohydrolase [potassium-transporting] B chain) (Potassium-binding and translocating subunit B) (Potassium-translocating ATPase B chain)
+Pre-mRNA-splicing factor CWC22
+Probable 26S proteasome regulatory subunit p27
+Probable GABA transporter 2
+Probable GTP-binding protein OBGM, mitochondrial
+Probable branched-chain-amino-acid aminotransferase (BCAT) (EC 2.6.1.42)
+Probable disease resistance protein At5g63020 (pNd11)
+Probable glucuronosyltransferase Os04g0650300 (EC 2.4.-.-) (OsGT43B)
+Probable glutathione S-transferase GSTU1 (EC 2.5.1.18)
+Probable inactive serine/threonine-protein kinase bub1
+Probable leucine-rich repeat receptor-like protein kinase IMK3 (EC 2.7.11.1) (Protein INFLORESCENCE MERISTEM RECEPTOR-LIKE KINASE 3) (Protein MERISTEMATIC RECEPTOR-LIKE KINASE)
+Probable methyltransferase At1g29790 (EC 2.1.1.-)
+Probable methyltransferase PMT22 (EC 2.1.1.-)
+Probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH8 (EC 3.6.4.13) (DEAH RNA helicase homolog PRP2)
+Probable proline transporter 2
+Probable protein kinase UbiB (EC 2.7.-.-) (Ubiquinone biosynthesis protein UbiB)
+Probable protein phosphatase 2C 5 (OsPP2C05) (EC 3.1.3.16)
+Probable protein phosphatase 2C T23F11.1 (PP2C) (EC 3.1.3.16)
+Probable serine/threonine-protein kinase CST (EC 2.7.11.1) (Protein CAST AWAY)
+Probable xyloglucan glycosyltransferase 12 (EC 2.4.1.-) (Cellulose synthase-like protein C12) (AtCslC12)
+Protein ABC transporter 1, mitochondrial (ABC1At) (AtABC1) (EC 2.7.-.-)
+Protein ACTIVITY OF BC1 COMPLEX KINASE 3, chloroplastic (ABC1-LIKE KINASE 3) (EC 2.7.-.-) (EC 2.7.11.1) (Protein REPRESSOR OF BDR1)
+Protein DETOXIFICATION 26 (AtDTX26) (Multidrug and toxic compound extrusion protein 26) (MATE protein 26)
+Protein DOG1-like 4
+Protein ENHANCED PSEUDOMONAS SUSCEPTIBILITY 1 (EC 2.3.1.-)
+Protein ETHYLENE-INSENSITIVE 2 (OsEIN2) (Protein MAO HUZI 7)
+Protein FAR-RED IMPAIRED RESPONSE 1
+Protein FAR1-RELATED SEQUENCE 1
+Protein FAR1-RELATED SEQUENCE 4
+Protein FAR1-RELATED SEQUENCE 6
+Protein IWS1 homolog (IWS1-like protein)
+Protein MAIN-LIKE 2
+Protein MAINTENANCE OF MERISTEMS
+Protein MANNAN SYNTHESIS-RELATED 2 (AtMSR2) (EC 2.4.1.-) (O-fucosyltransferase 12) (O-FucT-12) (O-fucosyltransferase family protein)
+Protein MOS2
+Protein NLP7 (AtNLP7) (NIN-like protein 7) (Nodule inception protein-like protein 7)
+Protein NO VEIN (Protein EMBRYO DEFECTIVE 2597)
+Protein O-mannosyl-transferase TMTC1 (EC 2.4.1.109) (Transmembrane and TPR repeat-containing protein 1)
+Protein PHLOEM PROTEIN 2-LIKE A10 (AtPP2-A10)
+Protein SOB FIVE-LIKE 5 (AtSOFL5)
+Protein canopy-1 (Protein D121)
+Protein of unknown function
+Protein p34
+Protein patched homolog 2 (PTC2)
+Purple acid phosphatase (EC 3.1.3.2) (Zinc(II) purple acid phosphatase)
+Putative COX1/OXI3 intron 2 protein
+Putative DUF21 domain-containing protein At1g03270 (CBS domain-containing protein CBSDUF4)
+Putative NADPH dehydrogenase C5H10.10 (EC 1.6.99.1) (Old yellow enzyme homolog 2)
+Putative NADPH-dependent methylglyoxal reductase GRP2 (EC 1.1.1.283) (Cytoplasmic antigenic protein 2)
+Putative disease resistance protein RGA3 (Blight resistance protein B149) (RGA1-blb)
+Putative dynamin-related protein 4A
+Putative lipase ROG1 (EC 3.1.-.-) (Revertant of glycogen synthase kinase mutation protein 1)
+Putative pentatricopeptide repeat-containing protein At3g23330
+Putative receptor-like protein kinase At1g80870 (EC 2.7.11.1)
+Putative replication factor C small subunit L499 (RFC small subunit L499) (Clamp loader small subunit L499)
+Putative ribonuclease H protein At1g65750 (EC 3.1.26.4)
+Putative serine protease K12H4.7 (EC 3.4.-.-)
+Putative transcription factor bHLH086 (Basic helix-loop-helix protein 86) (AtbHLH86) (bHLH 86) (Protein ROOT HAIR DEFECTIVE 6-LIKE 1) (AtRSL1) (Protein RHD SIX-LIKE 1) (Transcription factor EN 113) (bHLH transcription factor bHLH086)
+Pyrethroid hydrolase (EC 3.1.1.88)
+Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha (PFP) (6-phosphofructokinase, pyrophosphate dependent) (PPi-PFK) (Pyrophosphate-dependent 6-phosphofructose-1-kinase)
+RIO-type serine/threonine-protein kinase Rio1 (EC 2.7.11.1) (EC 3.6.3.-)
+Receptor expression-enhancing protein 4
+Receptor-like protein kinase 5 (EC 2.7.10.1) (EC 2.7.11.1) (Protein HAESA)
+Replication factor A 51 kDa subunit (RP-A p51) (Replication factor-A protein 1) (RF-A protein 1) (Single-stranded DNA-binding protein P51 subunit)
+Replication protein A 70 kDa DNA-binding subunit C (OsRPA70c) (Replication factor A protein 1C) (Replication protein A 1C)
+Retinoblastoma-related protein 2 (OsRBR2)
+Ribosome biogenesis protein TSR1 (20S rRNA accumulation protein 1)
+Ribosome biogenesis protein bms1
+SNF1-related protein kinase regulatory subunit gamma-1 (AKIN subunit gamma-1) (AKING1) (AKINgamma1) (CBS domain-containing protein CBSCBS1)
+SUPPRESSOR OF ABI3-5 (REQUIRED FOR SNC4-1D protein 1) (Splicing factor SUA)
+SWI/SNF complex subunit SWI3C (AtSWI3C) (Transcription regulatory protein SWI3C)
+Serine carboxypeptidase-like 50 (EC 3.4.16.-)
+Serine/threonine-protein kinase BRI1-like 1 (EC 2.7.11.1) (BRASSINOSTEROID INSENSITIVE 1-like protein 1)
+Serine/threonine-protein kinase Nek5 (EC 2.7.11.1) (NimA-related protein kinase 5) (AtNEK6) (AtNek5)
+Serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit B (PP6-ARS-B) (Serine/threonine-protein phosphatase 6 regulatory subunit ARS-B) (Ankyrin repeat domain-containing protein 44)
+Serine/threonine-protein phosphatase 7 long form homolog (EC 3.1.3.16) (Protein MAIN-LIKE 3)
+Serpin B4 (Leupin) (Peptidase inhibitor 11) (PI-11) (Squamous cell carcinoma antigen 2) (SCCA-2)
+Short-chain dehydrogenase/reductase family 42E member 1 (EC 1.1.1.-)
+Sodium-coupled neutral amino acid transporter 2 (Amino acid transporter A2) (Solute carrier family 38 member 2) (System A amino acid transporter 2) (System A transporter 1) (System N amino acid transporter 2)
+Solute carrier family 45 member 3 (Prostate cancer-associated protein 6) (Prostein)
+Spermidine hydroxycinnamoyl transferase (EC 2.3.1.-) (BAHD-like hydroxycinnamoyl transferase)
+Squalene monooxygenase SE1 (EC 1.14.14.17) (Squalene epoxidase 1) (PgSQE1) (SE) (SE1) (gse)
+Squamosa promoter-binding-like protein 7
+Sterol regulatory element-binding protein cleavage-activating protein (SCAP) (SREBP cleavage-activating protein)
+Subtilisin-like protease SBT1.3 (EC 3.4.21.-) (Subtilase subfamily 1 member 3) (AtSBT1.3)
+Sugar transport protein 4 (Hexose transporter 4)
+Sulfate adenylyltransferase (EC 2.7.7.4) (ATP-sulfurylase) (Sulfate adenylate transferase) (SAT)
+Syntaxin-61 (AtSYP61) (Osmotic stress-sensitive mutant 1)
+TPR repeat-containing protein ZIP4 (Protein ZIP4 homolog) (OsZIP4)
+Testis-expressed protein 10 homolog
+Tetratricopeptide repeat protein 1 (TPR repeat protein 1)
+Tetratricopeptide repeat protein 7A (TPR repeat protein 7A)
+Transcription factor LRL2 (Basic helix-loop-helix protein 69) (AtbHLH69) (bHLH 69) (Protein DEFECTIVE REGION OF POLLEN 2) (Protein LJRHL1- LIKE 2) (AtLRL2) (Transcription factor EN 94) (Transcription factor bHLH69) (bHLH transcription factor bHLH069)
+Transcription factor MYB52 (Myb-related protein 52) (AtMYB52) (Protein ABA-HYPERSENSITIVE 1)
+Transcription factor TGA1 (DNA-binding protein TGA1a-like protein) (bZIP transcription factor 47) (AtbZIP47)
+Transport and Golgi organization protein 2
+Transposon TX1 uncharacterized 149 kDa protein (ORF 2)
+Transposon Ty3-I Gag-Pol polyprotein (Gag3-Pol3) (Transposon Ty3-2 TYA-TYB polyprotein) [Cleaved into: Capsid protein (CA) (p24); Spacer peptide p3; Nucleocapsid protein p11 (NC); Ty3 protease (PR) (EC 3.4.23.-) (p16); Spacer peptide J; Reverse transcriptase/ribonuclease H (RT) (RT-RH) (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.4) (p55); Integrase p52 (IN); Integrase p49 (IN)]
+Tryptophan decarboxylase 2 (EC 4.1.1.-)
+U-box domain-containing protein 11 (EC 2.3.2.27) (Plant U-box protein 11) (RING-type E3 ubiquitin transferase PUB11)
+U-box domain-containing protein 17 (EC 2.3.2.27) (Plant U-box protein 17) (RING-type E3 ubiquitin transferase PUB17)
+U-box domain-containing protein 26 (EC 2.3.2.27) (Plant U-box protein 26) (RING-type E3 ubiquitin transferase PUB26)
+U-box domain-containing protein 8 (EC 2.3.2.27) (Plant U-box protein 8) (RING-type E3 ubiquitin transferase PUB8)
+UBA domain-containing protein 7
+UDP-glucose 4-epimerase GEPI42 (EC 5.1.3.2) (Galactowaldenase) (UDP-galactose 4-epimerase)
+UDP-glycosyltransferase 79B10 (EC 2.4.1.-)
+UDP-glycosyltransferase 79B6 (EC 2.4.1.-)
+Ubiquitin-conjugating enzyme E2 C (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme C) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme C) (Ubiquitin carrier protein C) (Ubiquitin-protein ligase C)
+Ubiquitin-conjugating enzyme E2-18 kDa (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme 7) (Ubiquitin carrier protein) (Ubiquitin-protein ligase)
+Uncharacterized RNA-binding protein C4F6.14
+Uncharacterized WD repeat-containing protein alr3466
+Uncharacterized acetyltransferase At3g50280 (EC 2.3.1.-)
+Uncharacterized calcium-binding protein C800.10c
+Uncharacterized mitochondrial protein AtMg00310 (ORF154)
+Uncharacterized protein KIAA0930 homolog
+Uncharacterized protein RP120
+Uncharacterized protein in hydrogenase 1 5'region (Fragment)
+Uncharacterized protein sll0103
+Uric acid transporter UacT
+Uroporphyrinogen decarboxylase 1, chloroplastic (UPD1) (URO-D1) (EC 4.1.1.37)
+V-type proton ATPase subunit a, vacuolar isoform (V-ATPase a 1 subunit) (V-ATPase 95 kDa subunit) (Vacuolar pH protein 1) (Vacuolar proton pump a subunit) (Vacuolar proton translocating ATPase subunit a 1)
+Vacuolar import and degradation protein 27
+Vacuolar protein sorting-associated protein 2 homolog 2 (AtVPS2-2) (Charged multivesicular body protein 2 homolog 2) (ESCRT-III complex subunit VPS2 homolog 2)
+Very-long-chain aldehyde decarbonylase CER1 (EC 4.1.99.5) (Protein ECERIFERUM 1)
+Voltage-gated ClC-type chloride channel ClcB
+WD repeat-containing protein PCN (Protein POPCORN)
+WEB family protein At1g75720
+Wall-associated receptor kinase-like 15 (EC 2.7.11.-)
+Werner syndrome ATP-dependent helicase homolog (EC 3.6.4.12) (Exonuclease WRN) (EC 3.1.-.-)
+Xylulose kinase (Xylulokinase) (EC 2.7.1.17)
+Xylulose kinase 2 (Atxk-2) (Xylulokinase 2) (EC 2.7.1.17) (1-Deoxy-D-Xylulokinase) (DXK)
+Zinc finger BED domain-containing protein 4
+Zinc finger BED domain-containing protein DAYSLEEPER (Transposase-like protein DAYSLEEPER)
+Zinc finger BED domain-containing protein RICESLEEPER 1 (Transposase-like protein RICESLEEPER 1)
+Zinc finger protein ZAT4
+bZIP transcription factor 60 (AtbZIP60)

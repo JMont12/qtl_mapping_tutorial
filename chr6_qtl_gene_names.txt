@@ -1,0 +1,62 @@
+ADP-ribosylation factor-like protein 5A
+ADP-ribosylation factor-like protein 8d (AtARL8d) (ADP-ribosylation factor-like A1B) (AtARLA1B)
+AP2-like ethylene-responsive transcription factor At2g41710
+APO protein 1, chloroplastic (Accumulation of photosystem I protein 1) (Protein ACCUMULATION OF PHOTOSYSTEM ONE 1)
+ATP synthase subunit d, mitochondrial (ATPase subunit d)
+Aspartyl protease 37 (EC 3.4.23.-)
+BTB/POZ domain-containing protein SR1IP1 (Protein ATSR1-INTERACTION PROTEIN 1)
+Casein kinase II subunit alpha-1 (CK II) (EC 2.7.11.1) (Casein kinase alpha 1) (AtCKA1)
+Cathepsin B-like cysteine proteinase 4 (EC 3.4.22.-) (Cysteine protease-related 4)
+Cell wall integrity protein scw1 (Strong cell wall protein 1)
+Chaperone protein DnaJ
+Chromatin modification-related protein EAF3
+Cyclin-D5-1 (G1/S-specific cyclin-D5-1) (CycD5;1)
+Cysteine-rich receptor-like protein kinase 26 (Cysteine-rich RLK26) (EC 2.7.11.-)
+Cytochrome P450 81Q32 (CrCYP81Q32) (EC 1.14.-.-)
+DNA damage-binding protein 2 (DDB p48 subunit) (DDBb) (Damage-specific DNA-binding protein 2) (UV-damaged DNA-binding protein 2) (UV-DDB 2)
+Ethylene-responsive transcription factor ERF021
+GH3 domain-containing protein
+Gibberellin-regulated protein 8 (GAST1 protein homolog 8)
+L10-interacting MYB domain-containing protein
+LRR receptor-like serine/threonine-protein kinase GSO1 (EC 2.7.11.1) (Protein GASSHO 1) (Protein SCHENGEN 3)
+MYB-like transcription factor ODO1 (Protein ODORANT1) (PhODO1)
+Mitochondrial import receptor subunit TOM70 (Mitochondrial precursor proteins import receptor) (Translocase of outer membrane 70 kDa subunit) (Translocase of outer mitochondrial membrane protein 70)
+Naringenin,2-oxoglutarate 3-dioxygenase (EC 1.14.11.9) (FHT) (Flavanone-3-hydroxylase) (F3H)
+POC1 centriolar protein homolog (Proteome of centrioles 1)
+Pentatricopeptide repeat-containing protein At3g03580
+Peroxidase 2 (EC 1.11.1.7) (Fragment)
+Pimeloyl-[acyl-carrier protein] methyl ester esterase (EC 3.1.1.85) (Biotin synthesis protein BioH) (Carboxylesterase BioH)
+Probable WRKY transcription factor 33 (WRKY DNA-binding protein 33)
+Probable alpha-L-arabinofuranosidase C (ABF C) (Arabinosidase C) (EC 3.2.1.55)
+Probable glucuronosyltransferase Os10g0205300 (EC 2.4.-.-)
+Probable prolyl 4-hydroxylase 9 (AtP4H9) (EC 1.14.11.2)
+Prolyl 4-hydroxylase subunit alpha-1 (4-PH alpha-1) (EC 1.14.11.2) (Procollagen-proline,2-oxoglutarate-4-dioxygenase subunit alpha-1)
+Protein ALP1-like (EC 3.1.-.-)
+Protein ETHYLENE-INSENSITIVE 2 (OsEIN2) (Protein MAO HUZI 7)
+Protein FRIGIDA
+Protein NONRESPONDING TO OXYLIPINS 2, mitochondrial
+Protein TRI1
+Protein of unknown function
+Putative U-box domain-containing protein 46 (EC 2.3.2.27) (Plant U-box protein 46) (RING-type E3 ubiquitin transferase PUB46)
+Putative UPF0481 protein At3g02645
+Putative invertase inhibitor (Pollen allergen Pla a 1) (allergen Pla a 1.0101)
+Putative nuclease HARBI1 (EC 3.1.-.-) (Harbinger transposase-derived nuclease)
+Putative oxidoreductase C6G10.06 (EC 1.-.-.-)
+Putative tyrosine-protein phosphatase auxilin (EC 3.1.3.48) (DnaJ homolog subfamily C member 6)
+RNA exonuclease 1 (EC 3.1.-.-) (RNase H(70))
+RNA polymerase II C-terminal domain phosphatase-like 2 (FCP-like 2) (EC 3.1.3.16) (Carboxyl-terminal phosphatase-like 2) (AtCPL2) (CTD phosphatase-like 2)
+Ribonuclease III domain-containing protein RNC1, chloroplastic (Chloroplast ribonuclease III domain protein)
+Small COPII coat GTPase SAR1 (EC 3.6.5.-)
+Subtilisin-like protease SBT1.8 (EC 3.4.21.-) (Subtilase subfamily 1 member 8) (AtSBT1.8)
+Tetratricopeptide repeat protein 1 (TPR repeat protein 1)
+Transposon Ty3-I Gag-Pol polyprotein (Gag3-Pol3) (Transposon Ty3-2 TYA-TYB polyprotein) [Cleaved into: Capsid protein (CA) (p24); Spacer peptide p3; Nucleocapsid protein p11 (NC); Ty3 protease (PR) (EC 3.4.23.-) (p16); Spacer peptide J; Reverse transcriptase/ribonuclease H (RT) (RT-RH) (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.4) (p55); Integrase p52 (IN); Integrase p49 (IN)]
+UBX domain-containing protein 6 (UBX domain-containing protein 1)
+Ubiquitin-conjugating enzyme E2 30 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme 30) (Ubiquitin carrier protein 30)
+Uncharacterized protein At2g23090
+Uncharacterized protein MJ1426
+Uncharacterized protein ycf36
+Vacuolar protein sorting-associated protein 13A (Chorea-acanthocytosis protein homolog) (Chorein) (Fragment)
+Vesicle transport protein USE1 (USE1-like protein)
+Zinc finger MYM-type protein 1
+Zinc finger protein 4
+tRNA-dihydrouridine(47) synthase [NAD(P)(+)]-like (EC 1.3.1.-) (tRNA-dihydrouridine synthase 3-like)
